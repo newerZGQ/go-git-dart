@@ -15,4 +15,4 @@ ffigen:
   output: "generated_bindings.dart"
   headers:
     entry-points:
-      - "gitjournal.h"
+      - "./output/win/gogit.h"
