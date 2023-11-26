@@ -3,4 +3,7 @@
 .devenv*
 devenv.local.nix
 .direnv
+.dart_tool
+/output
 
+generated_bindings.dart
